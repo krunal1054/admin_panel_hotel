@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dark {
+  background-color: #0f172a;
+  color: #e5e7eb;
+}
+.input {
+  @apply w-full border rounded-lg px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-emerald-500;
+}
+
+.btn-primary {
+  @apply bg-emerald-600 text-white px-6 py-3 rounded-lg hover:bg-emerald-700 transition;
+}
+.input {
+  width: 100%;
+  border: 1px solid #d1d5db;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
