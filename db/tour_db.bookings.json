@@ -1,0 +1,1265 @@
+[{
+  "_id": {
+    "$oid": "697d940ba244f9d220a1e350"
+  },
+  "subPackageId": {
+    "$oid": "697d92f8a244f9d220a1e34c"
+  },
+  "travelers": [],
+  "bookingStatus": "pending",
+  "paymentStatus": "pending",
+  "createdAt": {
+    "$date": "2026-01-31T05:32:59.704Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T05:32:59.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69819c0ad86c0a6378b38c6e"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6980592226eff112c804ec46"
+  },
+  "userInfo": {
+    "name": "Krunal Chauhan",
+    "email": "krunalc054@gmail.com",
+    "phone": "0931606555",
+    "date": "2026-02-11"
+  },
+  "pricing": {
+    "totalAmount": 45000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T06:56:10.288Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T06:56:10.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69819c0bd86c0a6378b38c71"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6980592226eff112c804ec46"
+  },
+  "userInfo": {
+    "name": "Krunal Chauhan",
+    "email": "krunalc054@gmail.com",
+    "phone": "0931606555",
+    "date": "2026-02-11"
+  },
+  "pricing": {
+    "totalAmount": 45000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T06:56:11.310Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T06:56:11.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69819c0bd86c0a6378b38c74"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6980592226eff112c804ec46"
+  },
+  "userInfo": {
+    "name": "Krunal Chauhan",
+    "email": "krunalc054@gmail.com",
+    "phone": "0931606555",
+    "date": "2026-02-11"
+  },
+  "pricing": {
+    "totalAmount": 45000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T06:56:11.496Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T06:56:11.510Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69819c0bd86c0a6378b38c77"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6980592226eff112c804ec46"
+  },
+  "userInfo": {
+    "name": "Krunal Chauhan",
+    "email": "krunalc054@gmail.com",
+    "phone": "0931606555",
+    "date": "2026-02-11"
+  },
+  "pricing": {
+    "totalAmount": 45000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T06:56:11.677Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T06:56:11.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69819c0bd86c0a6378b38c7a"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6980592226eff112c804ec46"
+  },
+  "userInfo": {
+    "name": "Krunal Chauhan",
+    "email": "krunalc054@gmail.com",
+    "phone": "0931606555",
+    "date": "2026-02-11"
+  },
+  "pricing": {
+    "totalAmount": 45000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T06:56:11.864Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T06:56:11.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69819c0cd86c0a6378b38c7d"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6980592226eff112c804ec46"
+  },
+  "userInfo": {
+    "name": "Krunal Chauhan",
+    "email": "krunalc054@gmail.com",
+    "phone": "0931606555",
+    "date": "2026-02-11"
+  },
+  "pricing": {
+    "totalAmount": 45000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T06:56:12.044Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T06:56:12.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69819c0cd86c0a6378b38c80"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6980592226eff112c804ec46"
+  },
+  "userInfo": {
+    "name": "Krunal Chauhan",
+    "email": "krunalc054@gmail.com",
+    "phone": "0931606555",
+    "date": "2026-02-11"
+  },
+  "pricing": {
+    "totalAmount": 45000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T06:56:12.262Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T06:56:12.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69819c27d86c0a6378b38c8f"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6980592226eff112c804ec46"
+  },
+  "userInfo": {
+    "name": "",
+    "email": "",
+    "phone": "",
+    "date": ""
+  },
+  "pricing": {
+    "totalAmount": 45000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T06:56:39.531Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T06:56:39.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69819cfed86c0a6378b38c95"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6980592226eff112c804ec46"
+  },
+  "userInfo": {
+    "name": "Krunal Chauhan",
+    "email": "krunalc@gmail.com",
+    "phone": "09316666666",
+    "gender": "male",
+    "travelType": "couple",
+    "persons": "2",
+    "date": "2026-02-21"
+  },
+  "pricing": {
+    "totalAmount": 45000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T07:00:14.527Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T07:00:14.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69819e2dd86c0a6378b38ca8"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6980592226eff112c804ec46"
+  },
+  "userInfo": {
+    "name": "Krunal Chauhan",
+    "email": "krunalc@gmail.com",
+    "phone": "0931606564",
+    "gender": "male",
+    "travelType": "solo",
+    "persons": 1,
+    "date": "",
+    "cardNumber": "5555555",
+    "cardName": "meet",
+    "expiry": "2232",
+    "cvv": "jjj"
+  },
+  "pricing": {
+    "totalAmount": 45000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T07:05:17.429Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T07:05:17.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69819ef5d86c0a6378b38cae"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6980592226eff112c804ec46"
+  },
+  "userInfo": {
+    "name": "dharmin",
+    "email": "dharmik@gmail.com",
+    "phone": "56321478",
+    "gender": "Male",
+    "travelType": "Couple",
+    "persons": "2",
+    "date": "2026-02-11",
+    "cardNumber": "",
+    "cardName": "",
+    "expiry": "",
+    "cvv": ""
+  },
+  "pricing": {
+    "totalAmount": 45000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T07:08:37.782Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T07:08:37.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981a1b0d86c0a6378b38ce3"
+  },
+  "packageType": "sub",
+  "packageId": {
+    "$oid": "6980585226eff112c804ebb6"
+  },
+  "userInfo": {
+    "name": "sachin",
+    "email": "sachin@gmail.com",
+    "phone": "56321478",
+    "gender": "Male",
+    "travelType": "Couple",
+    "persons": "2",
+    "date": "2026-02-06",
+    "cardNumber": "5434aop",
+    "cardName": "sachin",
+    "expiry": "12/26",
+    "cvv": "231"
+  },
+  "pricing": {
+    "totalAmount": 56000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T07:20:16.357Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T07:20:16.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981a33dd86c0a6378b38d08"
+  },
+  "packageType": "best",
+  "packageId": {
+    "$oid": "6980581f26eff112c804eba5"
+  },
+  "userInfo": {
+    "name": "nilesh",
+    "email": "nilesh@gmail.com",
+    "phone": "23654120",
+    "gender": "Male",
+    "travelType": "Couple",
+    "persons": "2",
+    "date": "2026-02-20",
+    "cardNumber": "",
+    "cardName": "",
+    "expiry": "",
+    "cvv": ""
+  },
+  "pricing": {
+    "totalAmount": 23000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T07:26:53.291Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T07:26:53.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981a3aad86c0a6378b38d17"
+  },
+  "packageType": "best",
+  "packageId": {
+    "$oid": "6980581f26eff112c804eba5"
+  },
+  "userInfo": {
+    "name": "rahul",
+    "email": "rahul@gmail.com",
+    "phone": "1232145665",
+    "gender": "Male",
+    "travelType": "Family",
+    "persons": "4",
+    "date": "2026-02-14",
+    "cardNumber": "",
+    "cardName": "",
+    "expiry": "",
+    "cvv": ""
+  },
+  "pricing": {
+    "totalAmount": 23000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T07:28:42.909Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T07:28:42.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981a402d86c0a6378b38d1a"
+  },
+  "packageType": "best",
+  "packageId": {
+    "$oid": "6980581f26eff112c804eba5"
+  },
+  "userInfo": {
+    "name": "rahul",
+    "email": "rahul@gmail.com",
+    "phone": "1232145665",
+    "gender": "Male",
+    "travelType": "Family",
+    "persons": "4",
+    "date": "2026-02-14",
+    "cardNumber": "",
+    "cardName": "",
+    "expiry": "",
+    "cvv": ""
+  },
+  "pricing": {
+    "totalAmount": 23000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T07:30:10.890Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T07:30:10.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981a953771b272eea3bae68"
+  },
+  "travelers": [],
+  "pricing": {
+    "totalAmount": 56000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T07:52:51.497Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T07:52:51.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981abdb5a99f2c2ff559835"
+  },
+  "packageType": "best",
+  "packageId": {
+    "$oid": "6980581f26eff112c804eba5"
+  },
+  "travelers": [],
+  "pricing": {
+    "totalAmount": 23000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T08:03:39.420Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T08:03:39.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981ad2eeae27ecd82ab9814"
+  },
+  "packageType": "best",
+  "packageId": {
+    "$oid": "6980581f26eff112c804eba5"
+  },
+  "travelers": [],
+  "pricing": {
+    "totalAmount": 23000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T08:09:18.395Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T08:09:18.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981ef06e93e47de982c450e"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6981eeeae93e47de982c4505"
+  },
+  "travelers": [],
+  "pricing": {
+    "totalAmount": 5600
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T12:50:14.780Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T12:50:14.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981f0a51b7b6f4a7db1e46b"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6981f0861b7b6f4a7db1e462"
+  },
+  "travelers": [],
+  "pricing": {
+    "totalAmount": 22000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T12:57:09.802Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T12:57:09.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981f48572492d61b21b5f6d"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6981f44772492d61b21b5eae"
+  },
+  "travelers": [],
+  "pricing": {
+    "totalAmount": 12000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-03T13:13:41.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T13:13:41.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981f53072492d61b21b602a"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6981f3921b7b6f4a7db1e745"
+  },
+  "travelers": [],
+  "pricing": {
+    "totalAmount": 10000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "pending",
+  "createdAt": {
+    "$date": "2026-02-03T13:16:32.356Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T13:16:32.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981f77972492d61b21b6159"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6981f75772492d61b21b6150"
+  },
+  "travelers": [],
+  "pricing": {
+    "totalAmount": 20000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "pending",
+  "createdAt": {
+    "$date": "2026-02-03T13:26:17.213Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T13:26:17.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981f8e272492d61b21b6365"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6981eeeae93e47de982c4505"
+  },
+  "travelers": [],
+  "pricing": {
+    "totalAmount": 5600
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "pending",
+  "createdAt": {
+    "$date": "2026-02-03T13:32:18.183Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T13:32:18.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981f91c72492d61b21b63d8"
+  },
+  "packageType": "sub",
+  "packageId": {
+    "$oid": "6981f87372492d61b21b622c"
+  },
+  "travelers": [],
+  "pricing": {
+    "totalAmount": 25000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "pending",
+  "createdAt": {
+    "$date": "2026-02-03T13:33:16.085Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T13:33:16.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981f99d72492d61b21b6454"
+  },
+  "packageType": "best",
+  "packageId": {
+    "$oid": "6981f97472492d61b21b644b"
+  },
+  "travelers": [],
+  "pricing": {
+    "totalAmount": 8000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "pending",
+  "createdAt": {
+    "$date": "2026-02-03T13:35:25.852Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T13:35:25.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6982ea352276498c7e38bb93"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6982e9c32276498c7e38ba43"
+  },
+  "travelers": [],
+  "pricing": {
+    "totalAmount": 20000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "pending",
+  "createdAt": {
+    "$date": "2026-02-04T06:41:57.757Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-04T06:41:57.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6982eca42276498c7e38bdde"
+  },
+  "packageType": "best",
+  "packageId": {
+    "$oid": "6981f97472492d61b21b644b"
+  },
+  "travelers": [],
+  "pricing": {
+    "totalAmount": 8000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "pending",
+  "createdAt": {
+    "$date": "2026-02-04T06:52:20.151Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-04T06:52:20.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6982f8ee5c1aeba43a210dec"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6982e9c32276498c7e38ba43"
+  },
+  "travelers": [],
+  "pricing": {
+    "totalAmount": 20000
+  },
+  "bookingStatus": "pending",
+  "paymentStatus": "pending",
+  "createdAt": {
+    "$date": "2026-02-04T07:44:46.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-04T07:44:46.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6984400f758c889a0d62f991"
+  },
+  "user": {
+    "$oid": "6984400f758c889a0d62f98f"
+  },
+  "userInfo": {
+    "name": "viren",
+    "email": "viren@gmail.com",
+    "phone": "2323232310"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "69843fd6758c889a0d62f957"
+  },
+  "pricing": {
+    "totalAmount": 20000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-05T07:00:31.123Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-05T07:00:31.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6984408f758c889a0d62fb63"
+  },
+  "user": {
+    "$oid": "6984408f758c889a0d62fb61"
+  },
+  "userInfo": {
+    "name": "chintan",
+    "email": "chintan@gmail.com",
+    "phone": "2102102136"
+  },
+  "packageType": "sub",
+  "packageId": {
+    "$oid": "6981f87372492d61b21b622c"
+  },
+  "pricing": {
+    "totalAmount": 25000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-05T07:02:39.908Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-05T07:02:39.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69859bc42e370a61c188d1ad"
+  },
+  "user": {
+    "$oid": "69859bc42e370a61c188d1ab"
+  },
+  "userInfo": {
+    "name": "nikunj",
+    "email": "nikkung@gmail.com",
+    "phone": "1236547896"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "69859b9c2e370a61c188d1a1"
+  },
+  "pricing": {
+    "totalAmount": 15000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-06T07:44:04.492Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T07:44:04.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6985e6b8ade0f282a9c90966"
+  },
+  "user": {
+    "$oid": "6985e6b8ade0f282a9c90964"
+  },
+  "userInfo": {
+    "name": "Krunal Chauhan",
+    "email": "krunalc054@gmail.com",
+    "phone": "09316061087"
+  },
+  "packageType": "sub",
+  "packageId": {
+    "$oid": "6981f87372492d61b21b622c"
+  },
+  "pricing": {
+    "totalAmount": 25000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-06T13:03:52.453Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T13:03:52.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6985f080b12b825009ca5e86"
+  },
+  "user": {
+    "$oid": "6985f080b12b825009ca5e84"
+  },
+  "userInfo": {
+    "name": "Krunal Chauhan",
+    "email": "krunal@gmail.com",
+    "phone": "0931888087"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6985f06bb12b825009ca5e7a"
+  },
+  "pricing": {
+    "totalAmount": 21000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-06T13:45:36.599Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T13:45:36.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6985f1a1b12b825009ca5f76"
+  },
+  "user": {
+    "$oid": "6985f1a1b12b825009ca5f74"
+  },
+  "userInfo": {
+    "name": "Krunal",
+    "email": "krunal55@gmail.com",
+    "phone": "09388888887"
+  },
+  "packageType": "best",
+  "packageId": {
+    "$oid": "6985f187b12b825009ca5f6a"
+  },
+  "pricing": {
+    "totalAmount": 11000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-06T13:50:25.074Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T13:50:25.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698989561ac117402c9e042b"
+  },
+  "user": {
+    "$oid": "6985f080b12b825009ca5e84"
+  },
+  "userInfo": {
+    "name": "Krunal",
+    "email": "krunal@gmail.com",
+    "phone": "0931677788"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6989849b4f4fd9b68b02cf03"
+  },
+  "pricing": {
+    "totalAmount": 15000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-09T07:14:30.615Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T07:14:30.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6989899d1ac117402c9e043b"
+  },
+  "user": {
+    "$oid": "6989899d1ac117402c9e0439"
+  },
+  "userInfo": {
+    "name": "chintan",
+    "email": "chintan2gmail.com",
+    "phone": "1236589632"
+  },
+  "packageType": "best",
+  "packageId": {
+    "$oid": "698984d84f4fd9b68b02cf0a"
+  },
+  "pricing": {
+    "totalAmount": 10000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-09T07:15:41.669Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T07:15:41.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6989899d1ac117402c9e0441"
+  },
+  "user": {
+    "$oid": "6989899d1ac117402c9e0439"
+  },
+  "userInfo": {
+    "name": "chintan",
+    "email": "chintan2gmail.com",
+    "phone": "1236589632"
+  },
+  "packageType": "best",
+  "packageId": {
+    "$oid": "698984d84f4fd9b68b02cf0a"
+  },
+  "pricing": {
+    "totalAmount": 10000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-09T07:15:41.788Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T07:15:41.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6989899e1ac117402c9e0447"
+  },
+  "user": {
+    "$oid": "6989899d1ac117402c9e0439"
+  },
+  "userInfo": {
+    "name": "chintan",
+    "email": "chintan2gmail.com",
+    "phone": "1236589632"
+  },
+  "packageType": "best",
+  "packageId": {
+    "$oid": "698984d84f4fd9b68b02cf0a"
+  },
+  "pricing": {
+    "totalAmount": 10000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-09T07:15:42.023Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T07:15:42.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698989d41ac117402c9e0457"
+  },
+  "user": {
+    "$oid": "698989d41ac117402c9e0455"
+  },
+  "userInfo": {
+    "name": "parthive",
+    "email": "parthive@gmail.com",
+    "phone": "1122330562"
+  },
+  "packageType": "sub",
+  "packageId": {
+    "$oid": "698985384f4fd9b68b02cf11"
+  },
+  "pricing": {
+    "totalAmount": 25000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-09T07:16:36.088Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T07:16:36.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698989e11ac117402c9e045d"
+  },
+  "user": {
+    "$oid": "698989d41ac117402c9e0455"
+  },
+  "userInfo": {
+    "name": "parthive",
+    "email": "parthive@gmail.com",
+    "phone": "1122330562"
+  },
+  "packageType": "sub",
+  "packageId": {
+    "$oid": "698985384f4fd9b68b02cf11"
+  },
+  "pricing": {
+    "totalAmount": 25000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-09T07:16:49.445Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T07:16:49.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698992d61ac117402c9e0d64"
+  },
+  "user": {
+    "$oid": "698992d61ac117402c9e0d62"
+  },
+  "userInfo": {
+    "name": "viren",
+    "email": "vire@gmail.com",
+    "phone": "213654789"
+  },
+  "packageType": "sub",
+  "packageId": {
+    "$oid": "698985384f4fd9b68b02cf11"
+  },
+  "pricing": {
+    "totalAmount": 25000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-09T07:55:02.729Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T07:55:02.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698993621ac117402c9e0ef8"
+  },
+  "user": {
+    "$oid": "697d93a5a244f9d220a1e34e"
+  },
+  "userInfo": {
+    "name": "rahul",
+    "email": "rahul@gmail.com",
+    "phone": "2145630254"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "6989849b4f4fd9b68b02cf03"
+  },
+  "pricing": {
+    "totalAmount": 15000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-09T07:57:22.402Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T07:57:22.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ad33972e8d5e32eaeb66a"
+  },
+  "user": {
+    "$oid": "698ad33972e8d5e32eaeb668"
+  },
+  "userInfo": {
+    "name": "darsh",
+    "email": "darsh@gmail.com",
+    "phone": "1232132123"
+  },
+  "packageType": "best",
+  "packageId": {
+    "$oid": "698ad30f72e8d5e32eaeb65e"
+  },
+  "pricing": {
+    "totalAmount": 10000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-10T06:42:01.372Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-10T06:42:01.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ad3dc72e8d5e32eaeb784"
+  },
+  "user": {
+    "$oid": "698ad3dc72e8d5e32eaeb782"
+  },
+  "userInfo": {
+    "name": "vaishali",
+    "email": "vishali@gmail.com",
+    "phone": "1236598742"
+  },
+  "packageType": "top",
+  "packageId": {
+    "$oid": "698ad39172e8d5e32eaeb778"
+  },
+  "pricing": {
+    "totalAmount": 13000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-10T06:44:44.805Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-10T06:44:44.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ad46872e8d5e32eaeb8b7"
+  },
+  "user": {
+    "$oid": "698ad46872e8d5e32eaeb8b5"
+  },
+  "userInfo": {
+    "name": "kishan patel",
+    "email": "kishan@gmail.com",
+    "phone": "2103210210"
+  },
+  "packageType": "sub",
+  "packageId": {
+    "$oid": "698ad43e72e8d5e32eaeb8ab"
+  },
+  "pricing": {
+    "totalAmount": 25000
+  },
+  "bookingStatus": "upcoming",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-02-10T06:47:04.863Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-10T06:47:04.863Z"
+  },
+  "__v": 0
+}]

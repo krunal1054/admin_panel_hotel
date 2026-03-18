@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "697cac89024550891d6b6768"
+  },
+  "email": "admin@test.com",
+  "password": "$2b$10$t.RcdwQ5VGV0icE6sR1ttOQ6.gA35tU82saafml6vcbXJ2rhmHDGC",
+  "createdAt": {
+    "$date": "2026-01-30T13:05:13.792Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T13:05:13.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69859504810b8ae5dff25ff1"
+  },
+  "name": "Krunal Chauhan",
+  "email": "krunalc@gmail.com",
+  "password": "$2b$10$PjBw7PvUzSPAOXd/PaGmz.NvIWFJ9IMpCdujFD5Mbu.pHE.M8jGCG",
+  "createdAt": {
+    "$date": "2026-02-06T07:15:16.428Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T07:15:16.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6985964a810b8ae5dff25ff6"
+  },
+  "name": "Krunal Chauhan",
+  "email": "krunalc054@gmail.com",
+  "password": "$2b$10$cx78JBmxy9AdOsyqBlYwsuvocZ3bVnzY0hqqes9v7YDGYv7ppzezG",
+  "createdAt": {
+    "$date": "2026-02-06T07:20:42.200Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T07:20:42.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6989c933fed88c22829abbaf"
+  },
+  "name": "viren",
+  "email": "viren@gmail.com",
+  "password": "$2b$10$lNc6i/Y8LwwyJpK/eFUYZ.FLcG1aKlgOWyi9RbEXna6JvVTPZEAkC",
+  "createdAt": {
+    "$date": "2026-02-09T11:46:59.162Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T11:46:59.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698acf9472e8d5e32eaeb4bb"
+  },
+  "name": "parthive",
+  "email": "parthive@gmail.com",
+  "password": "$2b$10$5LU4xtfY1R073w68VIFLKuUuac.VIBpXrdEn5wi1Havo0HzLkuTlK",
+  "createdAt": {
+    "$date": "2026-02-10T06:26:28.173Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-10T06:26:28.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69bac4c5919f19586fcfad86"
+  },
+  "name": "Krunal Chauhan",
+  "email": "krunalc054123@gmail.com",
+  "password": "$2b$10$55HG1aUEaybcycYrhhYNhOOjVUBTGGm//3cvxMIGFv29kmns/GmpS",
+  "createdAt": {
+    "$date": "2026-03-18T15:29:09.196Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-18T15:29:09.196Z"
+  },
+  "__v": 0
+}]

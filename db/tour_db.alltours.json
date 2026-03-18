@@ -1,0 +1,177 @@
+[{
+  "_id": {
+    "$oid": "6981f44772492d61b21b5eb0"
+  },
+  "refId": {
+    "$oid": "6981f44772492d61b21b5eae"
+  },
+  "title": "Delhi",
+  "location": "2",
+  "price": 12000,
+  "image": "uploads\\top-packages\\1770124359715.jpg",
+  "type": "Top",
+  "createdAt": {
+    "$date": "2026-02-03T13:12:39.749Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T13:12:39.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981f87372492d61b21b622e"
+  },
+  "refId": {
+    "$oid": "6981f87372492d61b21b622c"
+  },
+  "title": "shimla",
+  "location": "shimla",
+  "price": 25000,
+  "mainImage": "uploads/1770125427367-968532664.jpg",
+  "type": "Sub",
+  "createdAt": {
+    "$date": "2026-02-03T13:30:27.371Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T13:30:27.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6985f187b12b825009ca5f6c"
+  },
+  "refId": {
+    "$oid": "6985f187b12b825009ca5f6a"
+  },
+  "title": "Gujrat",
+  "price": 11000,
+  "image": "uploads/1770385799287-659618702.jpg",
+  "type": "Best",
+  "createdAt": {
+    "$date": "2026-02-06T13:49:59.295Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T13:49:59.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6989849b4f4fd9b68b02cf05"
+  },
+  "refId": {
+    "$oid": "6989849b4f4fd9b68b02cf03"
+  },
+  "title": "kufri",
+  "location": "shimla",
+  "price": 15000,
+  "image": "uploads\\top-packages\\1770620059759.webp",
+  "type": "Top",
+  "createdAt": {
+    "$date": "2026-02-09T06:54:19.803Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T06:54:19.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698984d84f4fd9b68b02cf0c"
+  },
+  "refId": {
+    "$oid": "698984d84f4fd9b68b02cf0a"
+  },
+  "title": "Dwarka,Gujrat",
+  "price": 10000,
+  "image": "uploads/1770620120581-700847356.webp",
+  "type": "Best",
+  "createdAt": {
+    "$date": "2026-02-09T06:55:20.629Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T06:55:20.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698985384f4fd9b68b02cf13"
+  },
+  "refId": {
+    "$oid": "698985384f4fd9b68b02cf11"
+  },
+  "title": ".K. Temple, Kanpur",
+  "location": "UP",
+  "price": 25000,
+  "mainImage": "uploads/1770620216161-954726490.jpg",
+  "type": "Sub",
+  "createdAt": {
+    "$date": "2026-02-09T06:56:56.211Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T06:56:56.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ad30f72e8d5e32eaeb660"
+  },
+  "refId": {
+    "$oid": "698ad30f72e8d5e32eaeb65e"
+  },
+  "title": "gateway-of-india",
+  "price": 10000,
+  "image": "uploads/1770705679307-741613261.jpg",
+  "type": "Best",
+  "createdAt": {
+    "$date": "2026-02-10T06:41:19.325Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-10T06:41:19.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ad39172e8d5e32eaeb77a"
+  },
+  "refId": {
+    "$oid": "698ad39172e8d5e32eaeb778"
+  },
+  "title": "nalanda",
+  "location": "bihar",
+  "price": 13000,
+  "image": "uploads\\top-packages\\1770705809651.jpg",
+  "type": "Top",
+  "createdAt": {
+    "$date": "2026-02-10T06:43:29.703Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-10T06:43:29.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ad43e72e8d5e32eaeb8ad"
+  },
+  "refId": {
+    "$oid": "698ad43e72e8d5e32eaeb8ab"
+  },
+  "title": "junagadh",
+  "location": "gujrat",
+  "price": 25000,
+  "mainImage": "uploads/1770705982142-954310835.webp",
+  "type": "Sub",
+  "createdAt": {
+    "$date": "2026-02-10T06:46:22.184Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-10T06:46:22.184Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,391 @@
+[{
+  "_id": {
+    "$oid": "697cc18ae8747582c8b03499"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783690993.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:34:50.994Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:34:50.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc18be8747582c8b0349b"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783691773.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:34:51.775Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:34:51.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc18ce8747582c8b0349d"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783692287.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:34:52.289Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:34:52.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc18ce8747582c8b0349f"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783692504.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:34:52.506Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:34:52.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc18ce8747582c8b034a1"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783692676.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:34:52.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:34:52.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc18ce8747582c8b034a3"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783692871.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:34:52.875Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:34:52.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc18de8747582c8b034a5"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783693037.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:34:53.038Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:34:53.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc18de8747582c8b034a7"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783693285.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:34:53.288Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:34:53.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc18de8747582c8b034a9"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783693504.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:34:53.505Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:34:53.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc18ee8747582c8b034ab"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783694333.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:34:54.334Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:34:54.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc18fe8747582c8b034ad"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783695997.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:34:55.999Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:34:55.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc192e8747582c8b034af"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783698497.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:34:58.503Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:34:58.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc192e8747582c8b034b1"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783698824.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:34:58.825Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:34:58.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc193e8747582c8b034b3"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783699159.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:34:59.161Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:34:59.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc193e8747582c8b034b5"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783699525.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:34:59.528Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:34:59.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc194e8747582c8b034b7"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783700061.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:35:00.064Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:35:00.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc194e8747582c8b034b9"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,Family",
+  "image": "uploads\\best-packages\\1769783700835.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:35:00.837Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:35:00.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc25fe8747582c8b034bc"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,family",
+  "image": "uploads\\best-packages\\1769783903870.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:38:23.872Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:38:23.872Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cc260e8747582c8b034be"
+  },
+  "title": "Goa Holiday",
+  "price": "25000",
+  "days": "3 days",
+  "tags": "Beach,family",
+  "image": "uploads\\best-packages\\1769783904385.jpg",
+  "createdAt": {
+    "$date": "2026-01-30T14:38:24.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:38:24.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697d919aa244f9d220a1e347"
+  },
+  "title": "Shimla",
+  "price": "25000",
+  "days": "3D / 2D",
+  "tags": "Family",
+  "image": "uploads\\best-packages\\1769836954513.jpg",
+  "createdAt": {
+    "$date": "2026-01-31T05:22:34.516Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T05:22:34.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e27b3dc68faaea9539dcb"
+  },
+  "title": "Goa Holiday",
+  "price": "15000",
+  "days": "3day",
+  "tags": "Family",
+  "image": "uploads\\1769875379547-477421670.jpg",
+  "createdAt": {
+    "$date": "2026-01-31T16:02:59.552Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T16:02:59.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e2bc8652783485d77aa5b"
+  },
+  "title": "Goa",
+  "price": "1500",
+  "days": "2 night",
+  "tags": "family",
+  "image": "uploads\\1769876424517-561900767.jpg",
+  "createdAt": {
+    "$date": "2026-01-31T16:20:24.575Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T16:20:24.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e2de08dcdb5e810ba3687"
+  },
+  "title": "gg",
+  "price": "2541",
+  "days": "3days",
+  "tags": "family",
+  "image": "uploads\\1769876960093-682689074.jpg",
+  "createdAt": {
+    "$date": "2026-01-31T16:29:20.152Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T16:29:20.152Z"
+  },
+  "__v": 0
+}]

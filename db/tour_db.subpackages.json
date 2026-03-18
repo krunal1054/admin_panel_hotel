@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "6981f87372492d61b21b622c"
+  },
+  "title": "shimla",
+  "location": "shimla",
+  "price": 25000,
+  "tourType": "Family",
+  "mainImage": "uploads/1770125427367-968532664.jpg",
+  "createdAt": {
+    "$date": "2026-02-03T13:30:27.369Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T13:30:27.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698985384f4fd9b68b02cf11"
+  },
+  "title": ".K. Temple, Kanpur",
+  "location": "UP",
+  "price": 25000,
+  "tourType": "Couple",
+  "mainImage": "uploads/1770620216161-954726490.jpg",
+  "createdAt": {
+    "$date": "2026-02-09T06:56:56.207Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T06:56:56.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ad43e72e8d5e32eaeb8ab"
+  },
+  "title": "junagadh",
+  "location": "gujrat",
+  "price": 25000,
+  "tourType": "Family",
+  "mainImage": "uploads/1770705982142-954310835.webp",
+  "createdAt": {
+    "$date": "2026-02-10T06:46:22.181Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-10T06:46:22.181Z"
+  },
+  "__v": 0
+}]

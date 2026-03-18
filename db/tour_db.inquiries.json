@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "697d9471a244f9d220a1e352"
+  },
+  "name": "Rahul",
+  "email": "rahul@gmail.com",
+  "message": "I want details about Shimla tour",
+  "createdAt": {
+    "$date": "2026-01-31T05:34:41.596Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T05:34:41.596Z"
+  },
+  "__v": 0
+}]

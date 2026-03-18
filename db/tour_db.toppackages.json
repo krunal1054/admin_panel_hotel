@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "697e1623dc68faaea9539dbe"
+  },
+  "title": "goa beach",
+  "location": "goa",
+  "price": 2540,
+  "placeCount": 1,
+  "image": "uploads\\top-packages\\1769870883344.jpg",
+  "createdAt": {
+    "$date": "2026-01-31T14:48:03.394Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T14:48:03.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6981f44772492d61b21b5eae"
+  },
+  "title": "Delhi",
+  "location": "2",
+  "price": 12000,
+  "placeCount": 2,
+  "image": "uploads\\top-packages\\1770124359715.jpg",
+  "createdAt": {
+    "$date": "2026-02-03T13:12:39.736Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-03T13:12:39.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6989849b4f4fd9b68b02cf03"
+  },
+  "title": "kufri",
+  "location": "shimla",
+  "price": 15000,
+  "placeCount": 1,
+  "image": "uploads\\top-packages\\1770620059759.webp",
+  "createdAt": {
+    "$date": "2026-02-09T06:54:19.795Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T06:54:19.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ad39172e8d5e32eaeb778"
+  },
+  "title": "nalanda",
+  "location": "bihar",
+  "price": 13000,
+  "placeCount": 1,
+  "image": "uploads\\top-packages\\1770705809651.jpg",
+  "createdAt": {
+    "$date": "2026-02-10T06:43:29.694Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-10T06:43:29.694Z"
+  },
+  "__v": 0
+}]

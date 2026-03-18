@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "697db15300f758e8081348c6"
+  },
+  "title": "Goa",
+  "location": "Goa",
+  "price": 25000,
+  "mainImage": "uploads\\1769845075587-936165207.jpg",
+  "createdAt": {
+    "$date": "2026-01-31T07:37:55.599Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T07:37:55.599Z"
+  },
+  "__v": 0
+}]

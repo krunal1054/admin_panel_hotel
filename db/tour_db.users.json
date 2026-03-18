@@ -1,0 +1,210 @@
+[{
+  "_id": {
+    "$oid": "697cc478e8747582c8b034c0"
+  },
+  "name": "Rahul Sharma",
+  "email": "rahul@test.com",
+  "password": "$2b$10$eatlSNMxOp2EyCdaifi29OMz/DArBxiK16IUtKAb3AY.lgrkT6udm",
+  "createdAt": {
+    "$date": "2026-01-30T14:47:20.993Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-30T14:47:20.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697d93a5a244f9d220a1e34e"
+  },
+  "name": "Rahul",
+  "email": "rahul@gmail.com",
+  "password": "$2b$10$nK/hb23n2AP2wjo9BkZFCOeROH/NNJYaA6CQMU3MkE6NMTQ9.t49i",
+  "createdAt": {
+    "$date": "2026-01-31T05:31:17.265Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-31T05:31:17.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6984400f758c889a0d62f98f"
+  },
+  "name": "viren",
+  "email": "viren@gmail.com",
+  "password": "temp1234",
+  "createdAt": {
+    "$date": "2026-02-05T07:00:31.116Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-05T07:00:31.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6984408f758c889a0d62fb61"
+  },
+  "name": "chintan",
+  "email": "chintan@gmail.com",
+  "password": "temp1234",
+  "createdAt": {
+    "$date": "2026-02-05T07:02:39.905Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-05T07:02:39.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69859bc42e370a61c188d1ab"
+  },
+  "name": "nikunj",
+  "email": "nikkung@gmail.com",
+  "password": "temp1234",
+  "createdAt": {
+    "$date": "2026-02-06T07:44:04.486Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T07:44:04.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6985e6b8ade0f282a9c90964"
+  },
+  "name": "Krunal Chauhan",
+  "email": "krunalc054@gmail.com",
+  "password": "temp1234",
+  "createdAt": {
+    "$date": "2026-02-06T13:03:52.445Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T13:03:52.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6985f080b12b825009ca5e84"
+  },
+  "name": "Krunal Chauhan",
+  "email": "krunal@gmail.com",
+  "password": "temp1234",
+  "createdAt": {
+    "$date": "2026-02-06T13:45:36.593Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T13:45:36.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6985f1a1b12b825009ca5f74"
+  },
+  "name": "Krunal",
+  "email": "krunal55@gmail.com",
+  "password": "temp1234",
+  "createdAt": {
+    "$date": "2026-02-06T13:50:25.068Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T13:50:25.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6989899d1ac117402c9e0439"
+  },
+  "name": "chintan",
+  "email": "chintan2gmail.com",
+  "password": "temp1234",
+  "createdAt": {
+    "$date": "2026-02-09T07:15:41.628Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T07:15:41.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698989d41ac117402c9e0455"
+  },
+  "name": "parthive",
+  "email": "parthive@gmail.com",
+  "password": "temp1234",
+  "createdAt": {
+    "$date": "2026-02-09T07:16:36.080Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T07:16:36.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698992d61ac117402c9e0d62"
+  },
+  "name": "viren",
+  "email": "vire@gmail.com",
+  "password": "temp1234",
+  "createdAt": {
+    "$date": "2026-02-09T07:55:02.725Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T07:55:02.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ad33972e8d5e32eaeb668"
+  },
+  "name": "darsh",
+  "email": "darsh@gmail.com",
+  "password": "temp1234",
+  "createdAt": {
+    "$date": "2026-02-10T06:42:01.364Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-10T06:42:01.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ad3dc72e8d5e32eaeb782"
+  },
+  "name": "vaishali",
+  "email": "vishali@gmail.com",
+  "password": "temp1234",
+  "createdAt": {
+    "$date": "2026-02-10T06:44:44.801Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-10T06:44:44.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ad46872e8d5e32eaeb8b5"
+  },
+  "name": "kishan patel",
+  "email": "kishan@gmail.com",
+  "password": "temp1234",
+  "createdAt": {
+    "$date": "2026-02-10T06:47:04.860Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-10T06:47:04.860Z"
+  },
+  "__v": 0
+}]

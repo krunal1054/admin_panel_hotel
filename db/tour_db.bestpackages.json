@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "6985f187b12b825009ca5f6a"
+  },
+  "title": "Gujrat",
+  "price": 11000,
+  "days": "2",
+  "tags": "family",
+  "image": "uploads/1770385799287-659618702.jpg",
+  "createdAt": {
+    "$date": "2026-02-06T13:49:59.292Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T13:49:59.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698984d84f4fd9b68b02cf0a"
+  },
+  "title": "Dwarka,Gujrat",
+  "price": 10000,
+  "days": "2 ",
+  "tags": "Family",
+  "image": "uploads/1770620120581-700847356.webp",
+  "createdAt": {
+    "$date": "2026-02-09T06:55:20.625Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-09T06:55:20.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ad30f72e8d5e32eaeb65e"
+  },
+  "title": "gateway-of-india",
+  "price": 10000,
+  "days": "2",
+  "tags": "1",
+  "image": "uploads/1770705679307-741613261.jpg",
+  "createdAt": {
+    "$date": "2026-02-10T06:41:19.316Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-10T06:41:19.316Z"
+  },
+  "__v": 0
+}]
