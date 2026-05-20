@@ -42,12 +42,13 @@ app.use("/api/bookingstatus", require("./routes/bookingStatus.routes"));
 app.use("/api/inquiry", require("./routes/inquiry.routes"));
 app.use("/api/search", require("./routes/search.routes"));
 
-/* IMPORTANT: filename check karo */
-app.use("/api/users", require("./routes/Customer.routes"));
+/* ✅ FIXED */
+app.use("/api/users", require("./routes/customer.routes"));
 
 app.use("/api/admin", require("./routes/admin.routes"));
 app.use("/api/all-tours", require("./routes/allToursRoutes"));
 app.use("/api/reports", require("./routes/report.routes"));
+
 app.use(
   "/api/admin/dashboard",
   require("./routes/dashboard.routes")
