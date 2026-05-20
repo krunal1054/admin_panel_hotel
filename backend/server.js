@@ -9,12 +9,16 @@ connectDB();
 
 const app = express();
 
+app.use(
+  cors({
+    origin: [
+      "http://localhost:5173",
+      "https://admin-hotel-frontend.onrender.com"
+    ],
+    credentials: true,
+  })
+);
 
-app.use(cors({
-  origin: "http://localhost:5174", // frontend URL
-  credentials: true
-}));
-app.use(cors());
 app.use(express.json());
 //app.options("*", cors());
 app.use("/uploads", express.static(path.join(__dirname, "uploads")));
